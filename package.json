@@ -13,8 +13,8 @@
   "author": "Homerjam <jameshomer85@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "angular": ">=1.2.0",
-    "angular-animate": ">=1.2.0",
+    "angular": "github:angular/bower-angular@^1.4.7",
+    "angular-animate": "github:angular/bower-angular-animate@^1.4.7",
     "gsap": "~1.18.0",
     "angular-ui-router": "~0.2.15"
   },
